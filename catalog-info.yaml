@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: cheating-at-solitaire/docusaurus-site
   links:
-    - url: http://docusaurus.local
+    - url: http://127.0.0.1:8080
       title: Docusaurus Documentation
       icon: docs
 spec:
