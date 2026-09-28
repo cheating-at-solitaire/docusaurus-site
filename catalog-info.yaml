@@ -13,4 +13,4 @@ spec:
   type: website
   lifecycle: production
   owner: guests
-  system: examples
+  system: developer-platform
