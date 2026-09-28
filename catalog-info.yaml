@@ -5,6 +5,10 @@ metadata:
   description: Docusaurus documentation site
   annotations:
     github.com/project-slug: cheating-at-solitaire/docusaurus-site
+  links:
+    - url: http://docusaurus.local
+      title: Docusaurus Documentation
+      icon: docs
 spec:
   type: website
   lifecycle: production
