@@ -12,5 +12,5 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: guests
+  owner: platform-team
   system: developer-platform
